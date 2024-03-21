@@ -1,0 +1,63 @@
+
+
+.menu{
+    background-color: rgb(226, 70, 70);
+    padding: 20px;
+    text-align: center;
+}
+
+#adbanner {
+    padding: 40px;
+    background-color: rgb(166, 243, 149);
+    text-align: center;
+}
+
+#menutext{
+    margin-left: 10px;
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.a:hover { 
+    padding: 1em;
+    background-color:rgb(228, 108, 108);
+    text-decoration: underline;
+
+  }
+
+a{
+    text-decoration: none;
+  }
+
+  article{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+  }
+
+  .responsive {
+    width: 40%;
+    height: auto;
+    border-radius: 25px;
+    padding: 1em;
+    text-align: center;
+
+
+  }
+  .responsivesmall {
+    width: 25%;
+    height: auto;
+    border-radius: 25px;
+    padding: 6px;
+    text-align: center;
+  }
+
+  footer{
+    margin-top: 3em;
+    padding: 2em;
+    background-color:rgb(226, 70, 70);
+    text-align: center;
+    color: white;
+  }
+
